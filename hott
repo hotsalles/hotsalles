@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hot Salles - Affiliate Power</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to right, #0f0f0f, #1e1e1e);
+      font-family: 'Orbitron', sans-serif;
+      color: #fff;
+      text-align: center;
+    }
+    header {
+      background-color: #ff0000;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(255, 0, 0, 0.5);
+    }
+    header img {
+      width: 80px;
+    }
+    header h1 {
+      margin: 10px 0 0;
+      font-size: 2.5em;
+      text-shadow: 2px 2px #000;
+    }
+    .container {
+      padding: 40px 20px;
+    }
+    .highlight {
+      font-size: 2.2em;
+      color: #f4d442;
+      margin: 20px 0;
+    }
+    .cta {
+      background-color: #f4d442;
+      padding: 15px 30px;
+      font-size: 1.4em;
+      color: #000;
+      border-radius: 10px;
+      text-decoration: none;
+      display: inline-block;
+      margin: 20px 0;
+      transition: 0.3s ease;
+    }
+    .cta:hover {
+      background-color: #ffeb3b;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="/mnt/data/A_logo_for_a_brand_named_\"Hot_Salles\"_features_bol.png" alt="Hot Salles Logo">
+    <h1>🔥 Hot Salles</h1>
+    <p>Kenya’s Fastest Growing KES 300 Affiliate Network</p>
+  </header>
+
+  <div class="container">
+    <p class="highlight">Join with Just KES 300 💸</p>
+    <p>Earn <strong>KES 200</strong> per referral</p>
+    <p><strong>KES 50</strong> goes to the third party</p>
+    <p><strong>KES 50</strong> to Admin</p>
+    <p>All tracked & paid via M-Pesa (Admin: <strong>0795635178</strong> - Gitau Samuel)</p>
+
+    <a class="cta" href="https://forms.gle/ZtKnXG6mZTxciEAX6" target="_blank">🚀 Join Now</a>
+
+    <p>For help, WhatsApp: <strong>0795635178</strong></p>
+  </div>
+
+  <footer>
+    <p>© 2025 Hot Salles. Built with 🔥 by Gitau Samuel.</p>
+  </footer>
+</body>
+</html>
